@@ -2,7 +2,7 @@
 {
   "User": {
     "title": {
-      "string": {}
+      "_": {"items":10}
     }
   }
 }
